@@ -3,6 +3,7 @@ Simple example script demonstrating how to use the PeptideBuilder library.
 
 The script generates a peptide consisting of six arginines in alpha-helix
 conformation, and it stores the peptide under the name "example.pdb".
+test it
 """
 
 from PeptideBuilder import Geometry
